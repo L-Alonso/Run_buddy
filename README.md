@@ -12,3 +12,5 @@ https://l-alonso.github.io/Run_Buddy
 
 ## Contribution
 Made with ❤️ by Luis Alonso
+
+### ©️2019 Run Buddy, Inc 
